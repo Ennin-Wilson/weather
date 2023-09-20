@@ -26,11 +26,11 @@ Before you begin, ensure you have met the following requirements:
    git clone https://github.com/Ennin-Wilson/weather.git
 
 
-1. **Configure API Key**: Open the weather_app.py file and replace 'your-api-key' with your actual OpenWeatherMap API key
+1. **Configure API Key**: Open the weather.py file and replace 'your-api-key' with your actual OpenWeatherMap API key
    
 2. **Run the Program**:Execute the following command to run the program:
    ``` bash
-   python weather_app.py
+   python weather.py
 
 3. **Enter Location**: Enter the name of the city or location for which you want to retrieve weather information.
 
