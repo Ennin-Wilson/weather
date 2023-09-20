@@ -17,3 +17,15 @@ Before you begin, ensure you have met the following requirements:
 - Internet connection to make API requests.
 - OpenWeatherMap API key. (You can obtain one by signing up at https://openweathermap.org/api)
 
+## Usage
+   To use this Weather App, follow these steps:
+
+1. **Clone the Repository**: Clone this repository to your local machine using the following command:
+
+   ```bash
+   git clone https://github.com/Ennin-Wilson/weather.git
+
+
+## Acknowledgments
+
+This project uses the OpenWeatherMap API to retrieve weather data. You can learn more about their API [here](https://openweathermap.org/api).
