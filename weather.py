@@ -4,7 +4,7 @@ from sys import exit
 from math import ceil
 
 # my api key
-api_key = "5b282d97650483f39582273240604b4c"
+api_key = None  # ||Add API KEY||
 
 
 def main():
