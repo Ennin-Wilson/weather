@@ -1,10 +1,10 @@
 import requests
 import json
 from sys import exit
-from math import ceil
+
 
 # my api key
-api_key = None  # ||Add API KEY||
+api_key = "5b282d97650483f39582273240604b4c"  # ||Add API KEY||
 
 
 def main():
@@ -13,7 +13,7 @@ def main():
 
 def weather_app():
     user_input = input("Enter city or location: ")
-    store_details = []
+
     if user_input.isdigit():
         exit("MUST BE A CITY OR LOCATION NOT A NUMBER!")
     else:
