@@ -4,7 +4,7 @@ from sys import exit
 
 
 # my api key
-api_key = "5b282d97650483f39582273240604b4c"  # ||Add API KEY||
+api_key = ""  # ||Add API KEY||
 
 
 def main():
